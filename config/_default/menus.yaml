@@ -1,0 +1,5 @@
+leftnav:
+- identifier: eb9c8f89-7d57-3fc9-3561-d85659b33e34
+  name: Videos
+  pageRef: /pages/videos
+  weight: 10
