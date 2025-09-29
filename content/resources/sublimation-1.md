@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/be644f8423d2d152e67e22c19f785330_sublimation.jpg
 file_size: 3636
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

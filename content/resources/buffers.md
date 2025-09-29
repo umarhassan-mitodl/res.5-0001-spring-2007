@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/616f837db77a7e58734edebb2dbc81de_buffers.jpg
 file_size: 3585
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/3449a814da864c768236ef63919c8933_3DQj4dibr78.srt
 file_size: 10562
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
