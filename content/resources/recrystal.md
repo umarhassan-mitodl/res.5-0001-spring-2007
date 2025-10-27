@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-5-0001-digital-lab-techniques-manual-spring-2007/149eeda5b6a39ae584c5313ed668857e_recrystal.jpg
 file_size: 3650
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
